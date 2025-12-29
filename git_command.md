@@ -89,4 +89,8 @@ git push origin master -f   # will also overwrite the previous commit
 
 git clone https://github.com/AyushSingh7404/GitHub_Demo.git new_github
 
+git fetch
+
+git pull origin master
+
 
